@@ -3,7 +3,7 @@
 ### Starting Threads
 * There are two ways to start threads in Java
     - Extending Thread Class
-    - Implmenting Runnable Interface (Prefered)
+    - Implementing Runnable Interface (Prefered)
 * [Extending Thread Class Example](demos/1-extending-thread-class.java)
 * [Implementing Runnable Interface Example](demos/2-implementing-runnable-interface.java)
 
